@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="home_style.css">
+    <title>Add course</title>
+</head>
+<body style="background-color: darkgray;">
+    <form action="http://localhost/Task2-IP/add_courses.php" method="post" class="course-form">
+  <h1><b>ADD COURSE DETAILS</b></h1>
+  <br>
+  <div class="form-group">
+    <label for="course_Name">Course Name:</label>
+    <input type="text" id="course_Name" name="course_Name" required>
+  </div>
+
+  <!-- <div class="form-group">
+    <label for="course_Overview">Course Overview:</label>
+    <textarea id="course_Overview" name="course_Overview" required></textarea>
+  </div> -->
+
+  <div class="form-group">
+    <label for="course_Highlights">Course Highlights:</label>
+    <textarea id="course_Highlights" name="course_Highlights" required></textarea>
+  </div>
+
+  <div class="form-group">
+    <label for="course_Details">Details:</label>
+    <textarea id="course_Details" name="course_Details" required></textarea>
+  </div>
+
+  <div class="form-group">
+    <label for="module1">Module1:</label>
+    <textarea id="module1" name="module1" required></textarea>
+  </div>
+
+  <div class="form-group">
+    <label for="module1_Credits">Credit of Module1:</label>
+    <input type="number" id="module1_Credits" name="module1_Credits" required>
+  </div>
+
+  <div class="form-group">
+    <label for="module2">Module2:</label>
+    <textarea id="module2" name="module2" required></textarea>
+  </div>
+
+  <div class="form-group">
+    <label for="module2_Credits">Credit Of Module2:</label>
+    <input type="number" id="module2_Credits" name="module2_Credits" required>
+  </div>
+
+  <div class="form-group">
+    <label for="module3">Module3:</label>
+    <textarea id="module3" name="module3" required></textarea>
+  </div>
+
+  <div class="form-group">
+    <label for="module3_Credit">Credit Of Module3:</label>
+    <input type="number" id="module3_Credits" name="module3_Credits" required>
+  </div>
+
+  <div class="form-group">
+    <label for="level">Level:</label>
+    <input type="text" id="level" name="level" required>
+  </div>
+
+  <div class="form-group">
+    <label for="entry_Requirements">Entry Requirements:</label>
+    <textarea id="entry_Requirements" name="entry_Requirements" required></textarea>
+  </div>
+  <h2><b>Fees</b></h2>
+  <div class="form-group">
+    <label for="feesGBP">Home Fees (GBP):</label>
+    <input type="number" id="feesGBP" name="feesGBP" required>
+  </div>
+
+  <div class="form-group">
+    <label for="inter_FeesGBP">International Fees (GBP):</label>
+    <input type="number" id="inter_FeesGBP" name="inter_FeesGBP" required>
+  </div>
+
+  <div class="form-group">
+    <label for="feesEUR"> Home Fees (EUR):</label>
+    <input type="number" id="feesEUR" name="feesEUR" required>
+  </div>
+
+  <div class="form-group">
+    <label for="inter_FeesEUR">International Fees (EUR):</label>
+    <input type="number" id="inter_FeesEUR" name="inter_FeesEUR" required>
+  </div>
+
+  <div class="form-group">
+    <label for="feesUSD">Home Fees (USD):</label>
+    <input type="number" id="feesUSD" name="feesUSD" required>
+  </div>
+
+  <div class="form-group">
+    <label for="inter_FeesUSD">International Fees (USD):</label>
+    <input type="number" id="inter_FeesUSD" name="inter_FeesUSD" required>
+  </div>
+
+  <div class="form-group">
+    <center>
+    <input type="submit" value="Submit">
+    </center>
+  </div>
+</form>
+
+</body>
+</html>

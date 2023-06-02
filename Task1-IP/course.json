@@ -1,0 +1,178 @@
+{
+    "course": [
+      {
+        "title":"<i class='fas fa-calculator fa-lg'></i>Accounting and Finance MSc",
+        "level":"Postgraduate",
+        "course details": "The MSc Accounting and Finance course is designed to enhance your intellectual and transferable skills, including presentation, research, analysis and appraisal. This course addresses many of the current accounting issues present in business and how they relate to wider social, technical and economic challenges. You will also have the opportunity to study a specialist interest of your choice.",
+        "entry requirments": "If you hold a recognised first or second class honours degree from a UK university or international equivalent in finance, banking, accounting or a related discipline then you will meet our Accounting and Finance degree entry requirements for this course. If you hold professional qualifications, you will also be considered for entry onto this course.",
+        "uk fees details":{
+          "pound": "£8010",
+          "euro": "€9216.31",
+          "dollar": "$9889.15"
+        },
+        
+        "International fee details": {
+          "pound": "£16500",
+          "euro": "€18984.90",
+          "dollar": "$20370.90"
+        },
+        "duration":"1 year"
+         
+      },
+      {
+        "title": "<i class='fas fa-medkit fa-lg'></i>Public Health MSc",
+        "level": "Postgraduate",
+        "course details":"Our MSc Public Health will be delivered by a range of teaching methods such as core lectures, group work, online activities, use of case studies and directed learning approaches. Shared learning with other professionals will be a focus of this course and you will be encouraged to develop a critical, evaluative approach to the knowledge which underpins present-day public health practice.",
+        "entry requirments":"Applicants will normally hold a recognised First- or Second-class Honours degree in a subject area that demonstrates applicability to public health practice including:",
+        "uk fees details":{
+          "pound": "£8010",
+          "euro": "€9216.31",
+          "dollar": "$9889.15"
+        },
+        "International fee details":{
+          "pound": "£16500",
+          "euro": "€18984.90",
+          "dollar": "$20370.90"
+        },
+        "duration": "1 year"
+      },
+      {
+        "title": "<i class='fas fa-business-time fa-lg'></i> Master of Business Administration - Finance MBA",
+        "level": "Postgraduate",
+        "course details":"Studying our MBA Finance pathway will support your career progression by developing your critical thinking and research skills and enhancing your business knowledge and understanding.MBA Finance pathway equips you with the knowledge and critical understanding of contemporary themes relevant to managing successful businesses and prepares learners to become future entrepreneurs, business owners, and/or managers and leaders through critical engagement with the dynamic and disruptive international business environment that prioritise sustainability and ethical standards.",
+        "entry requirments":"If you hold a first or second class honours degree from a British university or equivalent, you will be eligible to apply for this course. Work experience is useful but is not an essential MBA entry requirement, so long as you can demonstrate a clear passion and interest in business and/or enterprise.",
+        "uk fees details":{
+          "pound":"£11,800",
+          "euro":"€13,308.95",
+          "dollar":"$14,647.34"
+        } ,
+        "International fee details":{
+          "pound":" £17,500",
+          "euro":"€21,721",
+          "dollar":"$21,721"
+        },
+        "duration": "1 year"
+      },
+      {
+        "title": "<i class='fas fa-cogs fa-lg'></i>Advanced Design and Manufacturing MSc",
+        "level": "Postgraduate",
+        "course details":"This highly applied programme develops students’ knowledge and understanding of the scientific principles underpinning engineering in the field of design and manufacturing, and of the accompanying legal, ethical and professional considerations.",
+        "entry requirments":"A recognised first or second class honours degree",
+        "uk fees details":{
+          "pound":"£8010",
+          "euro" : "€9,329.01",
+          "dollar":"$9,994"
+           
+        },    
+        "International fee details":{
+          "pound":"£16,500",
+          "euro":"€19,218.05",
+          "dollar":"20,585.10"
+          
+        },
+        "duration": "1 year"
+      },
+      {
+        "title": "<i class='fas fa-user-nurse fa-lg'></i>Specialist Community Public Health Nursing (SCPHN) (Top Up) MSc",
+        "level":"Postgraduate",
+        "course details": "This award is designed to reflect the needs of today’s Specialist Community Public Health Nursing (SCPHN) practitioners in which all learning activities must be demonstrated to have relevance in the workplace and be responsive to the needs of service. The overall theme of the award focuses on the application of the learning achieved",
+        "entry requirments":["Applicants must hold all of the following:","A Post Graduate Diploma in SCPHN (120 credits at level 7)","Where the applicant’s first language is not English, evidence of an IELTS certificate (or equivalent) with a score of at least 7 in each area is required"],
+        "uk fees details":{
+          "pound":"£2,670",
+          "euro" : "€3,110.10",
+          "dollar":"$3,331.04"
+        },
+        "International fee details":{
+          "pound":"£14,750",
+          "euro" : "€17,177.26",
+          "dollar":"$18,400.85" 
+        },
+        "duration": "1 year"
+      },
+      {
+        "title": "<i class='fas fa-briefcase fa-lg'></i>Business Management BA",
+        "level":"Undergraduate",
+        "course details": "The programme is based on developing your understanding of core business management principles, applied to authentic business contexts. Key themes have been woven into the course design, in consultation with employers and students, to maximise your learning, your employability and your course satisfaction.",
+        "entry requirments":["Standard entry requirements apply for this Business Management degree. A typical offer would be:","BCC at A Level or","DMM at BTEC or","Pass (C and above) at T Level"],
+        "uk fees details":{
+          "pound":"£9,250",
+          "euro" : "€10,771.56",
+          "dollar":"$11,539.51"
+        },
+        "International fee details":{
+          "pound":"£14,750",
+          "euro" : "€17,177.26",
+          "dollar":"$18,400.85" 
+        },
+        "duration": "2 year"
+      },
+      {
+        "title": "<i class='fas fa-chart-line fa-lg'></i>Finance BSc",
+        "level": "Undergraduate",
+        "course details":"Our BSc Finance degree programme is ideal for those who intend to work in the investment management profession and obtain a professional financial designation with well-known investment credentials. This specialist university finance course will equip you with the strong theoretical and technical skills required for the highlighted career paths and professional finance accreditations.",
+        "entry requirments":["Standard entry requirements apply for this Business Management degree. A typical offer would be:","BCC at A Level or","DMM at BTEC or","Pass (C and above) at T Level"],
+        "uk fees details":{
+          "pound":"£9,250",
+          "euro" : "€10,771.56",
+          "dollar":"$11,539.51" 
+        }, 
+        "International fee details":{
+          "pound":" £14,750",
+          "euro" : "€17,177.26",
+          "dollar":"$18,400.85" 
+        },
+        "duration": "2 year"
+      },
+      {
+        "title": "<i class='fas fa-flask fa-lg'></i>Biochemistry BSc",
+        "level": "Undergraduate",
+        "course details":"This biochemistry course will give you a firm understanding of the mechanistic biochemical processes that occur within living organisms. This will help you appreciate the broader picture including how all biological, chemical and physical disciplines are related to one another. There are key biological themes that create the core of this program",
+        "entry requirments":["Standard entry requirements apply for this biochemistry degree. A typical offer is","BCC at A Level or","DMM at BTEC or","Pass (C and above) at T Level"],
+        "uk fees details": {
+          "pound":"£9,250",
+          "euro" : "€10,771.56",
+          "dollar":"$11,539.51" 
+        },
+        "International fee details":{
+          "pound":" £14,750",
+          "euro" : "€17,177.26",
+          "dollar":"$18,400.85" 
+        },
+        "duration": "2 year"
+      },
+      {
+        "title": "<i class='fas fa-money-check-alt fa-lg'></i>International Banking and Finance (Top-Up) BSc (Hons)",
+        "level": "Undergraduate",
+        "course details":"This is a research driven programme focusing on contemporary issues within the challenging global banking and finance sector. You will gain up-to date technical and professional skills, through specially designed modules namely Contemporary Issues in Banking, Risk Management in Banking and a dedicated project in International Banking and Finance.",
+        "entry requirments":"Your application will be considered if you have successfully completed the first two years of a relevant business, economics, accounting or finance degree, or HND (or equivalent overseas qualification such as the Chinese Dazhuan).If you hold a qualification at Level 5 or above in a relevant area, your application may also be eligible subject to a satisfactory module mapping.",
+        "uk fees details":{
+          "pound":"£9,250",
+          "euro" : "€10,771.56",
+          "dollar":"$11,539.51" 
+        },
+        "International fee details":{
+          "pound":" £15,500",
+          "euro" : "€18,052.38",
+          "dollar":"$19,341.63" 
+        },
+        "duration": "2 year"
+      },
+      {
+        "title": "<i class='fas fa-chart-line fa-lg'></i>Economics BSc",
+        "level": "Undergraduate",
+        "course details":"This economics BSc course provides a solid understanding of both economic theory and the quantitative methods economists use in empirical analysis. You will be introduced to real world issues currently faced by individuals, companies and governments and their possible solution from the different perspectives of the major economic thinkers of the last two centuries. The BSc economics degree is intended for those who are considering practicing as an Economist in the future, in careers such as economic research, econometrics, forecasting as well as management finance and accountancy. It also provides an excellent basis for pursuing the study of economics at postgraduate level.",
+        "entry requirments":["In addition to meeting the University’s entry requirements, a typical offer for this BSc economics degree would be:","BCC at A Level or","DMM at BTEC or","Pass (C and above) at T Level."],
+        "uk fees details": {
+          "pound":"£9,250",
+          "euro" : "€10,771.56",
+          "dollar":"$11,539.51" 
+        },
+        "International fee details":{
+          "pound":" £14,750",
+          "euro" : "€17,177.26",
+          "dollar":"$18,400.85" 
+        },
+        "duration": "2 year"
+      }
+    ]
+  }

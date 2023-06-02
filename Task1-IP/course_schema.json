@@ -1,0 +1,23 @@
+{
+    "course": [
+      {
+        "title": "string",
+        "level": "string",
+        "course details": "string",
+        "entry requirments": "string or array of strings",
+        "uk fees details": {
+          "pound": "string",
+          "euro": "string",
+          "dollar": "string"
+        },
+        "International fee details": {
+          "pound": "string",
+          "euro": "string",
+          "dollar": "string"
+        },
+        "duration": "string"
+      }
+      
+    ]
+  }
+  

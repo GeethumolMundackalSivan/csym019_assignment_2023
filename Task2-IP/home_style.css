@@ -1,0 +1,201 @@
+-------------------------------/* Styling user_home.css */----------------------------------
+
+/* Reset default margin and padding */
+body, h1, h3, p, nav, ul, li {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Set a background color and font family for the body */
+  body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Style the header */
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  /* Style the main content */
+  main {
+    margin-top: 20px;
+    text-align: center;
+  }
+
+  
+  /* Style the image and text overlay */
+  main img {
+    width: 100%;
+    height: 400px;
+  }
+  logo img {
+    width: 50%;
+    height: 200px;
+  }
+  
+  .main-overlay {
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+  
+  .main-overlay h1 {
+    color: red;
+    font-size: 50px;
+  }
+  
+  /* Style the grid container */
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap:0;
+    margin-top: 20px;
+     
+  }
+  
+  /* Style the columns */
+  .col {
+    padding: 10px;
+  }
+  
+  /* Style the text column */
+  .text-column {
+    align-items: center;
+  }
+  
+  /* Style the navigation links */
+  nav a {
+    display: block;
+    margin-bottom: 10px;
+    color: #333;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  nav a:hover {
+    color: blue;
+  }
+  
+  /* Style the footer */
+  footer {
+    background-color: grey;
+    color: white;
+    height: 30px;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 5px;
+  }
+
+  ------------------------/*Styling the use_login page*/-------------------------------------
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  form {
+    max-width: 300px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  input[type="text"],
+  input[type="password"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #45a049;
+  }
+  
+  input[type="submit"]:focus {
+    outline: none;
+  }
+
+---------------------------/* Styling the add_courses.html page*/--------------------------------
+  body {
+    background-color: darkgray;
+  }
+  
+  .course-form {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    margin-top: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    font-weight: bold;
+  }
+  
+  input[type="text"],
+  textarea,
+  input[type="number"] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  input[type="submit"] {
+    width: auto;
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #45a049;
+  }
+  
+  .center {
+    text-align: center;
+  }
